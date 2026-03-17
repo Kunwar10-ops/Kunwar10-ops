@@ -9,7 +9,7 @@ Connect with me on LinkedIn: [linkedin.com/in/kunwarkohli](https://www.linkedin.
 ---
 
 ## Focus Areas
-* Finance operations & SaaS accounts  
+* Finance operations & SaaS industry experience 
 * Data analysis with Python (Pandas, NumPy, Matplotlib)  
 * ERP & Cloud consulting foundations  
 * Workflow optimization & reporting frameworks  
