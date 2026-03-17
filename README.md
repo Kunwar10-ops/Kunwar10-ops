@@ -1,4 +1,4 @@
-# Kunwar Kohli | Finance Professional transitioning into ERP & Cloud Consulting
+# Kunwar Kohli | Finance Professional building into ERP & Cloud Consulting
 
 With a strong foundation in finance operations and SaaS industry experience, I am actively building expertise in ERP & Cloud consulting.  
 My journey is documented through hands‑on projects in data analysis, reporting frameworks, and workflow optimization — showcasing both technical growth and business insight.
